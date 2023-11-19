@@ -20,5 +20,15 @@ namespace team_work
         {
             InitializeComponent();
         }
+
+        private void loadText_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void saveText_CLick(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
